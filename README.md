@@ -2,4 +2,4 @@
 
 This is my Terminal.app theme compatible with OSX (Mountain) Lion.
 
-![knoopx.terminal](screenshot.png)
+![knoopx.terminal](https://github.com/knoopx/knoopx.terminal/raw/master/screenshot.png)
